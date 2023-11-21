@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Gutib, Junas Nazarito - Activity 5 - Permission Explorer</string>
+    <string name="main_page">Main Page</string>
+    <string name="next_page">Go to next Page</string>
+    <string name="second_page_title">Welcome to my Second Page</string>
+    <string name="Back_Main_Page">Go back to Main page</string>
+    <string name="take_a_picture">Take a Picture</string>
+    <string name="get_location">Get Location</string>
+    <string name="access_storage">Access Storage</string>
+    <string name="record_audio">Record Audio</string>
+</resources>
